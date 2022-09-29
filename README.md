@@ -13,7 +13,7 @@ Hi, I'm Erkan
 
 
 
-</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Erkanrerikci&show_icons=true" alt="Erkanerikci" /></p>
 
 
