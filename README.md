@@ -13,7 +13,10 @@ Hi, I'm Erkan
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erkanerikci&show_icons=true&locale=tr&layout=compact" alt="Erkanerikci" /></p>
+</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Erkanrerikci&show_icons=true" alt="Erkanerikci" /></p>
+
+
 
 
 
