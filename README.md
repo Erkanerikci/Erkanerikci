@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Hi, I'm Erkan 
 - 🏫 I am a student at Kastamonu University.
-[![Instagram](https://w7.pngwing.com/pngs/191/478/png-transparent-social-media-facebook-emoji-icon-instagram-icon-instagram-logo-text-rectangle-magenta.png)](https://www.instagram.com/__erkanerikci/?hl=tr)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png)](https://www.instagram.com/__erkanerikci/?hl=tr)
 
 
 
