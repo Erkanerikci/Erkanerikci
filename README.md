@@ -11,8 +11,10 @@ Hi, I'm Erkan
 - 🏫 I am a student at Kastamonu University.
 
 
- 
 
 
-https://github-readme-stats.vercel.app/api/top-langs?username=Erkanerikci&show_icons=true&locale=tr&layout=compact
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erkanerikci&show_icons=true&locale=tr&layout=compact" alt="Erkanerikci" /></p>
+
+
+
 Erkan Erikci
