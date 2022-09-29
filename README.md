@@ -14,8 +14,7 @@ Hi, I'm Erkan
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Erkanrerikci&show_icons=true" alt="Erkanerikci" /></p>
-
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&theme=gradient)
 
 
 
