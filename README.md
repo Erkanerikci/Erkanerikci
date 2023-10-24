@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erkanerikci
-- 💻 I’m currently learning Photoshop,Math and coding
+- 💻 I am working on Python,C,C#,Html,Css,JavaScript languages.
 - 📧 How to reach me: erkanerikci123@gmail.com
 - 🏫 I am a student at Kastamonu University.
 
