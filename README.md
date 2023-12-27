@@ -18,6 +18,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://i.pinimg.com/originals/c2/54/37/c254371a91756e2432d1509f6664b82e.gif" alt="Instagram" height="100" ">
 
 </div>
+![](https://img.shields.io/badge/%20Projects-15-brightgreen?labelColor=7D898B)
+![](https://img.shields.io/badge/Awards%20%20-4-48D6FF?labelColor=7D898B)
+![](https://img.shields.io/badge/Earned%20Certificates-29-AC6EFF?labelColor=7D898B)
 
 
 
