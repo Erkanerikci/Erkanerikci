@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![](https://komarev.com/ghpvc/?username=Erkanerikci&color=ff69b4&style=plastic?labelColor=7D898B)
+![](https://komarev.com/ghpvc/?username=Erkanerikci&color=14D569&style=plastic?labelColor=7D898B)
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.instagram.com/__erkanerikci0/?hl=tr" style="margin-right: 10px;">
