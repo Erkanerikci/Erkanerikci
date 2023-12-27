@@ -1,5 +1,5 @@
-## - 👋 Hi, I’m @Erkan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-- 💻 I am working on Python,Mssql,Java,C,C#,Html,Css,JavaScript languages.<img src="https://media1.tenor.com/m/ajronzqNCa4AAAAC/blue-screen.gif" width="50">
+## - 👋 Hi, I’m @Erkan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media1.tenor.com/m/ajronzqNCa4AAAAC/blue-screen.gif" width="50">
+- 💻 I am working on Python,Mssql,Java,C,C#,Html,Css,JavaScript languages.
 - 📧 How to reach me: erkanerikci123@gmail.com
 - 🏫 I am a student at Kastamonu University.
 
