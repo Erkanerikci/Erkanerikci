@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.instagram.com/__erkanerikci0/?hl=tr">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png" alt="Instagram" height="100" width="100">
 </a>
-![Spartacus Gifs](https://github.com/Erkanerikci/Erkanerikci/assets/114212499/bfe5a9c7-5290-4958-8a97-385c065c5397)
 
+<img src="https://i.pinimg.com/originals/c2/54/37/c254371a91756e2432d1509f6664b82e.gif" alt="Instagram" height="100">
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Erkanerikci&show_icons=true&theme=gradient)
