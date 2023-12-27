@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.instagram.com/__erkanerikci0/?hl=tr" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png" alt="Instagram" height="100" width="100">
   </a>
-  <img src="https://i.pinimg.com/originals/c2/54/37/c254371a91756e2432d1509f6664b82e.gif" alt="Instagram" height="100" style="border-radius: 50px;">
+  <img src="https://i.pinimg.com/originals/c2/54/37/c254371a91756e2432d1509f6664b82e.gif" alt="Instagram" height="100" ">
 
 </div>
 
