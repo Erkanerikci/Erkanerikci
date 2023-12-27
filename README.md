@@ -1,4 +1,4 @@
-## - 👋 Hi, I’m @Erkan <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR1OWwzbWl2d3pwcnV2cWJ6YWQ2Zjc2bHZvejV5b215ZDVkNHFmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J2xMuBFMLH0SOYdZP1/giphy.gif)" width="50">
+## - 👋 Hi, I’m @Erkan <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR1OWwzbWl2d3pwcnV2cWJ6YWQ2Zjc2bHZvejV5b215ZDVkNHFmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J2xMuBFMLH0SOYdZP1/giphy.gif" width="50">
 - 💻 I am working on Python,Mssql,Java,C,C#,Html,Css,JavaScript languages.
 - 📧 How to reach me: erkanerikci123@gmail.com
 - 🏫 I am a student at Kastamonu University.
