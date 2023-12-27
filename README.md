@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erkanerikci
-- 💻 I am working on Python,C,C#,Html,Css,JavaScript languages.
+- 💻 I am working on Python,Mssql,Java,C,C#,Html,Css,JavaScript languages.
 - 📧 How to reach me: erkanerikci123@gmail.com
 - 🏫 I am a student at Kastamonu University.
 
