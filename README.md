@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="https://www.instagram.com/__erkanerikci0/?hl=tr">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png" alt="Instagram" height="150" width="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png" alt="Instagram" height="100" width="100">
 </a>
 
 
