@@ -8,7 +8,7 @@ Erkanerikci/Erkanerikci is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png)](https://www.instagram.com/__erkanerikci0/?hl=tr)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png)](https://www.instagram.com/__erkanerikci0/?hl=tr){:height="50px" width="50px"}
 
 
 
