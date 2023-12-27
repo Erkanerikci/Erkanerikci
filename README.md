@@ -9,6 +9,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+![](https://komarev.com/ghpvc/?username=Erkanerikci&color=ff69b4&style=plastic?labelColor=7D898B)
+
 <div style="display: flex; align-items: center;">
   <a href="https://www.instagram.com/__erkanerikci0/?hl=tr" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png" alt="Instagram" height="100" width="100">
