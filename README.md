@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Erkanerikci/Erkanerikci/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Erkanerikci/Erkanerikci/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
