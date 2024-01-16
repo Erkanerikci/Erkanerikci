@@ -6,7 +6,6 @@
 </div>
 
 
-###
 
 <img align="right" height="150" src="https://r.resimlink.com/YSbTpqakVO_M.gif"  />
 ###
@@ -21,7 +20,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
-###
 <div align="left">
   <a href="https://www.instagram.com/__erkanerikci0/?hl=tr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -38,5 +36,4 @@
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Erkanerikci/Erkanerikci/output/snake.svg" alt="Snake animation" />
 
-###
 
