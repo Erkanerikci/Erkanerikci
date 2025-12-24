@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=26&pause=1000&color=F79F0E&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40Erkan;%F0%9F%92%BB+Python%2C+Dart%2C+Flutter%2C+MSSQL%2CC%23%2C+HTML%2C+CSS%2C+JavaScript+;%E2%96%AC%E2%96%AC%CE%B9%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%EF%BA%A4;%3C%2F%3E+Mini+software+developer+who+works+on+his+own;%F0%9F%8F%AB+I+graduated+from+Kastamonu+University)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erkanerikci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erkanerikci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+
 
 <img align="right" height="150" src="https://r.resimlink.com/YSbTpqakVO_M.gif" alt="Animation" />
 
